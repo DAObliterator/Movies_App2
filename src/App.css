@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  color: rgb(0, 0, 0);
+}
+
+.movie__card {
+  flex: 1;
+}
+
