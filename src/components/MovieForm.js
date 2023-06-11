@@ -63,7 +63,7 @@ function MovieForm(props) {
             />
           </div>
           <div className="new-movie__actions">
-            <button type="submit" >Add Movie</button>
+            <button type="submit">Add Movie</button>
           </div>
         </div>
       </form>
